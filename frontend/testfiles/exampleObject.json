@@ -1,0 +1,71 @@
+{
+  "BestOfferEnabled": false,
+  "Description": "Nintendo Switch Lite - Yellow - BOX ONLY!!. If you threw away your old one or need to complete your collection this is Nintendo switch lite box only yellow console edition",
+  "ItemID": "383965103520",
+  "EndTime": "2021-02-26T06:12:18.000Z",
+  "StartTime": "2021-02-19T08:23:53.000Z",
+  "ViewItemURLForNaturalSearch": "https://www.ebay.com/itm/Nintendo-Switch-Lite-Yellow-BOX-ONLY-/383965103520",
+  "ListingType": "FixedPriceItem",
+  "Location": "Charleston, West Virginia",
+  "PaymentMethods": ["PayPal"],
+  "GalleryURL": "https://thumbs1.ebaystatic.com/pict/3839651035208080_1.jpg",
+  "PictureURL": [
+    "https://i.ebayimg.com/00/s/MTYwMFgxMjAw/z/1-sAAOSw9PNgL3UZ/$_32.JPG?set_id=880000500F",
+    "https://i.ebayimg.com/00/s/MTYwMFgxMjAw/z/b-QAAOSwYcJgL3Up/$_32.JPG?set_id=880000500F"
+  ],
+  "PostalCode": "253**",
+  "PrimaryCategoryID": "139971",
+  "PrimaryCategoryName": "Video Games & Consoles:Video Game Consoles",
+  "Quantity": 1,
+  "Seller": {
+    "UserID": "oxle_21",
+    "FeedbackRatingStar": "Yellow",
+    "FeedbackScore": 18,
+    "PositiveFeedbackPercent": 100
+  },
+  "BidCount": 0,
+  "ConvertedCurrentPrice": { "Value": 6.99, "CurrencyID": "USD" },
+  "CurrentPrice": { "Value": 6.99, "CurrencyID": "USD" },
+  "HighBidder": {
+    "UserID": "e***l",
+    "FeedbackPrivate": false,
+    "FeedbackRatingStar": "Turquoise",
+    "FeedbackScore": 324
+  },
+  "ListingStatus": "Completed",
+  "QuantitySold": 1,
+  "ShipToLocations": ["US"],
+  "Site": "US",
+  "TimeLeft": "PT0S",
+  "Title": "Nintendo Switch Lite - Yellow - BOX ONLY!!",
+  "ShippingCostSummary": {
+    "ShippingServiceCost": { "Value": 4.99, "CurrencyID": "USD" },
+    "ShippingType": "Flat",
+    "ListedShippingServiceCost": { "Value": 4.99, "CurrencyID": "USD" }
+  },
+  "ItemSpecifics": {
+    "NameValueList": [
+      { "Name": "All returns accepted", "Value": ["ReturnsNotAccepted"] },
+      { "Name": "Color", "Value": ["Yellow"] },
+      { "Name": "Brand", "Value": ["Nintendo"] },
+      { "Name": "Model", "Value": ["Nintendo Switch Lite"] },
+      { "Name": "Platform", "Value": ["Nintendo Switch"] }
+    ]
+  },
+  "HitCount": 101,
+  "PrimaryCategoryIDPath": "1249:139971",
+  "Country": "US",
+  "ReturnPolicy": {
+    "ReturnsAccepted": "ReturnsNotAccepted",
+    "InternationalReturnsAccepted": "ReturnsNotAccepted"
+  },
+  "AutoPay": true,
+  "PaymentAllowedSite": [],
+  "IntegratedMerchantCreditCardEnabled": false,
+  "HandlingTime": 3,
+  "ConditionID": 1500,
+  "ConditionDisplayName": "Open box",
+  "GlobalShipping": false,
+  "QuantitySoldByPickupInStore": 0,
+  "NewBestOffer": false
+}
