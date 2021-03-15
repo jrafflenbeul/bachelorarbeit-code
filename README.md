@@ -1,5 +1,5 @@
 # Verkaufssteigerung im E-Commerce- durch algorithmengestützte Optimierung - Codebasis
-In diesem Repo befindet sich der im Verlaufe der Bachelorarbeit "Verkaufssteigerung im E-Commerce- durch algorithmengestützte Optimierung" entwickelte Code. Die für den Webscraper und das Backend verwendete lauffähige Python-Version ist Ptyhon 3.7.
+In diesem Repo befindet sich der im Verlaufe der Bachelorarbeit "Verkaufssteigerung im E-Commerce- durch algorithmengestützte Optimierung" entwickelte Code. Die für den Webscraper und das Backend verwendete lauffähige Python-Version ist Python 3.7.
 
 ### Webscraper
 Der Webscraper läuft auf Basis von Pyppeteer. Mit Hilfe des Webscrapers lassen sich eBay-Artikelnummern bereits abgeschlossener Inserate zu einem Suchbegriff sammeln. Diese dienen als Grundlage, die für den weiteren Verlauf erforderlichen Datenmengen über die offizielle eBay API zu erlangen.
