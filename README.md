@@ -21,6 +21,6 @@ Das Backend basiert auf Python und dem Webframework Flask. Der Flask-Server wird
 
 ---
 
-Sobald Front- und Backend lokal gestartet wurden, kann die entwickelte Software vollständig genutzt werden. Das Programm ist auch [hier](https://ebay-analysis-tool.vercel.app/) abrufbar, kann auf Grund von Einschränkung im Threading bei [pythonanywhere.com](https://pythonanywhere.com) nur den Estimated Time to Sell und den damit verbundenen Estimated Price to Sell berechnen.
+Sobald Front- und Backend lokal gestartet wurden, kann die entwickelte Software vollständig genutzt werden. Das Programm ist auch [hier](https://ebay-analysis-tool.vercel.app/) abrufbar, kann aber auf Grund von Einschränkung im Threading bei [pythonanywhere.com](https://pythonanywhere.com) nur den Estimated Time to Sell und den damit verbundenen Estimated Price to Sell berechnen.
 
 Bei Fragen stehe ich gerne zur Verfügung.
